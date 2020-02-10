@@ -1,0 +1,20 @@
+// Image
+
+
+img {
+  max-width: 100%;
+}
+
+figure,
+.img-container {
+  margin: 2rem 0;
+
+  img {}
+
+  figcaption,
+  .description {
+    font-style: italic;
+    font-size: 1.6rem;
+    margin-top: -.5rem;
+  }
+}
