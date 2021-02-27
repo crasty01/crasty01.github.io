@@ -15,20 +15,20 @@
   display: block;
   overflow: hidden;
   position: relative;
+  max-width: 80rem;
   width: 100%;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 100%;
-  width: 1300px;
+  max-width: 80rem;
   padding: 0 2rem;
   position: relative;
   width: 100%;
 }
 
 main {
-  max-width: 80rem;
+  width: 100%;
   margin: 0 auto;
 }
 
