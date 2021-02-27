@@ -18,8 +18,9 @@
 
 .container {
   margin: 0 auto;
-  max-width: 112.0rem;
-  padding: 0 2.0rem;
+  max-width: 100%;
+  width: 1300px;
+  padding: 0 2rem;
   position: relative;
   width: 100%;
 }
